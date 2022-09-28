@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-game
-Learning Java with Tic Tac Toe
+Fun little Tic Tac Toe game with Java
